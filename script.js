@@ -1,4 +1,4 @@
-alert("Enjoy Your Game...!");
+alert("Enjoy your game...!");
 
 const hangmanImage = document.querySelector(".hangman-box img");
 const wordDisplay = document.querySelector(".word-display");
