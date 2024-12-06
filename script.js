@@ -1,3 +1,5 @@
+alert("Enjoy Your Game...!");
+
 const hangmanImage = document.querySelector(".hangman-box img");
 const wordDisplay = document.querySelector(".word-display");
 const guessesText = document.querySelector(".guesses-text b");
